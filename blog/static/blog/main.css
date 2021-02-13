@@ -13,11 +13,11 @@ ul {
 }
 
 .bg-steel {
-  background-color: #5f788a;
+  background-color: crimson;
 }
 
 .site-header .navbar-nav .nav-link {
-  color: #cbd5db;
+  color: bisque;
 }
 
 .site-header .navbar-nav .nav-link:hover {
@@ -41,7 +41,7 @@ ul {
 }
 
 a.article-title:hover {
-  color: #428bca;
+  color: darksalmon;
   text-decoration: none;
 }
 
@@ -58,11 +58,11 @@ a.article-title:hover {
 .article-metadata {
   padding-bottom: 1px;
   margin-bottom: 4px;
-  border-bottom: 1px solid #e3e3e3
+  border-bottom: 1px solid #dddddd;
 }
 
 .article-metadata a:hover {
-  color: #333;
+  color: darkred;
   text-decoration: none;
 }
 
